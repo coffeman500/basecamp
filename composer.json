@@ -1,5 +1,5 @@
 {
-    "name": "sirprize/basecamp",
+    "name": "coffeman500/basecamp",
     "type": "library",
     "description": "Basecamp Classic API Wrapper for PHP 5.3+",
     "keywords": ["basecamp", "basecamp classic", "api"],
